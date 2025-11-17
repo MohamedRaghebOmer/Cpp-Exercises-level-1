@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Sum of Even Numbers
+Level: Beginner – Loops, Conditionals & Input/Output
+
+Description:
+This program reads an integer from the user and calculates the sum of
+all even numbers from 0 up to the entered number.
+
+Input:
+- An integer "finsh" entered by the user, representing the upper limit.
+
+Output:
+- Prints the sum of all even numbers from 0 to "finsh".
+
+Logic Used:
+- Defines Proccedure() function to handle input and calculation.
+- Uses a for loop to iterate from 0 to "finsh".
+- Checks if a number is even using the modulo operator (% 2 == 0).
+- Adds even numbers to the sum.
+- Prints the total sum using cout.
+
+Key Concepts:
+- Loops: for
+- Conditional statements: if
+- Arithmetic operations
+- User input/output

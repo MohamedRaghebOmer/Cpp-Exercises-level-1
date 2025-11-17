@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Power of a Number with Rounding
+Level: Beginner – Arithmetic, Math Library & Input/Output
+
+Description:
+This program reads a number and a power from the user, calculates the number
+raised to that power using the pow() function from the cmath library, and then
+displays the rounded result using the round() function.
+
+Input:
+- A floating-point number "num" entered by the user.
+- A floating-point number "power" representing the exponent.
+
+Output:
+- Prints num^power.
+- Prints the rounded result of the calculation.
+
+Logic Used:
+- Uses pow() to calculate the exponentiation.
+- Uses round() to round the result.
+- Prints both results using cout.
+
+Key Concepts:
+- Math library functions: pow(), round()
+- User input/output
+- Floating-point arithmetic

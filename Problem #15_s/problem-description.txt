@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Rectangle Area Using Function
+Level: Beginner – Functions & Arithmetic
+
+Description:
+This program calculates the area of a rectangle using a function.
+The function takes the length and width as parameters and returns
+the area. It demonstrates defining and calling a function in C++.
+
+Input:
+- In this example, the values are hardcoded (10 and 20), but the function
+  can accept any integers as parameters.
+
+Output:
+- Prints the rectangle area to the console.
+
+Logic Used:
+- Defines a function FunctionToCalucateRetangleArea(int a, int b) that returns a*b.
+- Calls the function from main() and prints the result.
+
+Key Concepts:
+- Functions with parameters
+- Returning values from functions
+- Basic arithmetic (multiplication)
+- Console output (cout)

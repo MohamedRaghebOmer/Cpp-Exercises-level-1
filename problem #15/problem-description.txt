@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Rectangle Area Calculator
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program asks the user to enter the length and width of a rectangle
+and then calculates and prints the area. It is a simple exercise to
+practice user input, output, and multiplication in C++.
+
+Input:
+- Two floating-point numbers: Length and Width of the rectangle.
+
+Output:
+- The calculated area of the rectangle.
+
+Logic Used:
+- Reads length and width using cin.
+- Multiplies length and width to get the area.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic (multiplication)
+- User input/output
+- Floating-point numbers

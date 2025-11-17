@@ -1,0 +1,35 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Around a Triangle Using Function
+Level: Beginner – Functions & Math
+
+Description:
+This program calculates the area of a circle that can be described
+around an arbitrary triangle. It uses a function that reads the
+triangle's three sides (a, b, c) and returns the squared area
+based on the formula:
+
+    p = (a + b + c) / 2
+    Area = ((a * b * c) / (4 * sqrt(p * (p - a) * (p - b) * (p - c))))^2
+
+Input:
+- Three floating-point numbers representing the sides of a triangle (a, b, c).
+
+Output:
+- Prints the calculated area returned by the function.
+
+Logic Used:
+- Defines Function_To_Calculate_Circle_Area() to handle input and calculation.
+- Calculates semi-perimeter p.
+- Uses sqrt() from <cmath> to compute the square root in the formula.
+- Squares the final value to get the area.
+- Prints the result using cout.
+
+Key Concepts:
+- Functions with return values
+- Mathematical functions: sqrt(), pow()
+- User input/output
+- Floating-point calculations
+- Triangle properties and formulas

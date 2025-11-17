@@ -1,0 +1,32 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Function with pow() and round()
+Level: Beginner – Functions & Math
+
+Description:
+This program calculates the area of a circle using two inputs (a and b)
+through a function that returns the area. The area is rounded using the
+round() function before printing. The formula used is:
+
+    Area = π * (b^2 / 4) * (2a - b) / (2a + b)
+
+Input:
+- Two floating-point numbers: a and b, entered by the user.
+
+Output:
+- Prints the calculated area rounded to the nearest integer.
+
+Logic Used:
+- Defines Function_To_Calucate_circle_area() to read inputs and return the area.
+- Uses pow() from <cmath> to calculate b^2.
+- Applies the formula step by step.
+- Rounds the result using round().
+- Prints the result using cout.
+
+Key Concepts:
+- Functions with return values
+- Mathematical functions: pow(), round()
+- User input/output
+- Floating-point calculations

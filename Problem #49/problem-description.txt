@@ -1,0 +1,8 @@
+Simple ATM PIN Verification Program
+
+This program simulates a basic ATM PIN check and balance display.
+
+How it works:
+- The user is prompted to enter their ATM PIN.
+- If the entered PIN matches the stored PIN (1234), the program displays a login success message and shows the account balance (7500).
+- If the entered PIN is incorrect, the program displays a "Wrong PIN" message.

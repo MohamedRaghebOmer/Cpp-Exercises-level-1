@@ -1,0 +1,31 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Sum of Odd Numbers
+Level: Beginner – Loops, Conditionals & Input/Output
+
+Description:
+This program reads an integer from the user and prints all odd numbers
+from 1 up to that number. It also calculates and displays the sum of
+these odd numbers.
+
+Input:
+- An integer "Finsh" entered by the user, representing the upper limit.
+
+Output:
+- Prints all odd numbers from 1 to "Finsh".
+- Prints the sum of all odd numbers within that range.
+
+Logic Used:
+- Defines proccedure() function to handle input, counting, and sum.
+- Uses a for loop to iterate from 1 to "Finsh".
+- Checks if a number is odd using the modulo operator (% 2 != 0).
+- Adds odd numbers to the sum.
+- Prints each odd number and the total sum using cout.
+
+Key Concepts:
+- Loops: for
+- Conditional statements: if
+- Arithmetic operations
+- User input/output

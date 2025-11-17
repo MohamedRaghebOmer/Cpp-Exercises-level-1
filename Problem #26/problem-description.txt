@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Counting Up Program
+Level: Beginner – Loops & Input/Output
+
+Description:
+This program reads a number from the user and prints all numbers
+from 1 up to the entered number. It demonstrates using a for loop
+to iterate through numbers.
+
+Input:
+- A floating-point number B representing the upper limit of counting.
+
+Output:
+- Prints all numbers from 1 to B, each on a new line.
+
+Logic Used:
+- Defines Proccedure() function to handle input and counting.
+- Uses a for loop to iterate from 1 to B.
+- Prints each number using cout.
+
+Key Concepts:
+- Loops: for
+- Functions without return values (void)
+- User input/output
+- Floating-point numbers

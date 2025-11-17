@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Counting Up Using While Loop
+Level: Beginner – Loops & Input/Output
+
+Description:
+This program reads an integer from the user and prints all numbers
+from 1 up to the entered number. It demonstrates using a while loop
+for counting.
+
+Input:
+- An integer "To" entered by the user, representing the upper limit.
+
+Output:
+- Prints all numbers from 1 to "To", each on a new line.
+
+Logic Used:
+- Initializes a counter variable "from" to 1.
+- Uses a while loop to increment "from" until it reaches "To".
+- Prints each number using cout.
+
+Key Concepts:
+- Loops: while
+- User input/output
+- Integer arithmetic

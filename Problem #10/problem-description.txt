@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Average of Three Marks
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program asks the user to enter three marks and then calculates
+and prints their average. It is a simple exercise to practice
+arithmetic operations and user input/output in C++.
+
+Input:
+- Three floating-point numbers representing the marks.
+
+Output:
+- Prints the average of the three marks.
+
+Logic Used:
+- Reads three marks using cin.
+- Adds the marks and divides by 3 to get the average.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point numbers

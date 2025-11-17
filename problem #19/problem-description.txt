@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Diameter
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program calculates the area of a circle using the diameter
+entered by the user. The formula applied is:
+
+    Area = π * D^2 / 4
+
+Input:
+- A floating-point number representing the diameter (D) of the circle.
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads diameter using cin.
+- Applies the formula Area = π * D^2 / 4.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point calculations

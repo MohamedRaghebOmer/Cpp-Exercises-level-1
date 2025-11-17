@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Countdown From N to 1
+Level: Beginner – Basic Loops
+
+Description:
+This program prompts the user to enter a number N, then prints all
+numbers from N down to 1 in descending order. It is a simple exercise
+to practice basic loops and console input/output in C++.
+
+Input:
+- An integer N entered by the user.
+
+Output:
+- Numbers printed one per line, starting from N and ending at 1.
+
+Logic Used:
+- A for loop that decrements the counter from N to 1.
+- Basic input/output using cin and cout.
+
+Key Concepts:
+- for loops
+- Decrementing counters
+- User input
+- Console output

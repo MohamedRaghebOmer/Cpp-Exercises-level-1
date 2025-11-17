@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Counting Down Program
+Level: Beginner – Loops & Input/Output
+
+Description:
+This program reads an integer from the user and prints all numbers
+from that number down to 1. It demonstrates using a while loop
+to count in descending order.
+
+Input:
+- An integer N entered by the user.
+
+Output:
+- Prints all numbers from N down to 1, each on a new line.
+
+Logic Used:
+- Reads input using cin.
+- Uses a while loop to decrement the number until it reaches 1.
+- Prints each number using cout.
+
+Key Concepts:
+- Loops: while
+- User input/output
+- Integer arithmetic

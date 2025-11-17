@@ -1,0 +1,32 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Function & Procedure
+Level: Beginner – Functions & Math
+
+Description:
+This program calculates the area of a circle using both a void procedure
+and a function that returns the area. It demonstrates different ways
+to organize code using functions in C++.
+
+Formula Used:
+    Area = π * r^2
+
+Input:
+- An integer representing the radius (r) of the circle (entered twice for both procedure and function).
+
+Output:
+- Prints the circle area calculated by the procedure.
+- Prints the circle area returned by the function.
+
+Logic Used:
+- Defines Precedure_To_Calculate_Circle_Area() to read input and print area.
+- Defines Function_To_Calculate_Circle_Area() to read input and return area.
+- Calls both from main() and prints their results.
+
+Key Concepts:
+- Functions: void procedure vs returning function
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations

@@ -1,0 +1,12 @@
+# Simple Calculator Using Switch Statement
+
+This program allows the user to perform basic arithmetic operations between two numbers using a **switch statement**. The supported operations are:
+
+* Addition (`+`)
+* Subtraction (`-`)
+* Multiplication (`*`)
+* Division (`/`)
+
+The user is prompted to enter two numbers and choose the operation. The program then calculates and displays the result. For division, the program also checks for division by zero to avoid errors.
+
+This program is an introductory example for learning conditional branching and switch statements in C++.

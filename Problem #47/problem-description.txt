@@ -1,0 +1,9 @@
+Calculate Number of Months to Settle a Loan
+
+This program calculates how many months are needed to pay off a loan.
+
+How it works:
+- The user enters the total loan amount.
+- The user enters the monthly payment amount.
+- The program divides the loan amount by the monthly payment to calculate the number of months needed to settle the loan.
+- The result is displayed on the screen.

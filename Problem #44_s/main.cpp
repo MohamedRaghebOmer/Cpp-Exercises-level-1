@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-     unsigned int NumberOfTheDay;
+    unsigned int NumberOfTheDay;
 
     cout << "Please enter the number of the day? \n";
     cin >> NumberOfTheDay;
@@ -12,34 +12,28 @@ int main()
     switch (NumberOfTheDay)
     {
     case 1:
-        cout << "I'ts Saturday!" << endl;
+        cout << "It's Saturday!" << endl;
         break;
     case 2:
-            cout << "I'ts Sunday!" << endl
+        cout << "It's Sunday!" << endl;
         break;
-
     case 3:
-            cout << "I'ts Monday!" << endl;
+        cout << "It's Monday!" << endl;
         break;
-
     case 4:
-            cout << "I'ts Tuesday!" << endl;
+        cout << "It's Tuesday!" << endl;
         break;
-
     case 5:
-            cout << "I'ts Wednesday!" << endl;
+        cout << "It's Wednesday!" << endl;
         break;
-
     case 6:
-            cout << "I'ts Thursday!" << endl;
+        cout << "It's Thursday!" << endl;
         break;
-
     case 7:
-            cout << "I'ts Thursday!" << endl;
+        cout << "It's Friday!" << endl;
         break;
-
     default:
-            cout << "Invalid day" << endl;
+        cout << "Invalid day" << endl;
     }
 
     return 0;

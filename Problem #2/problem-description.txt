@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: User Name Input and Print
+Level: Beginner – Functions & Input
+
+Description:
+This program asks the user to enter their name and then prints
+it in a formatted sentence. It demonstrates using a function
+to handle input and output.
+
+Input:
+- A string entered by the user representing their name.
+
+Output:
+- Prints "My name is : <user's name>" to the console.
+
+Logic Used:
+- Defines a void function named ProcedureToPrintMyName.
+- Uses getline() to read a full line of text including spaces.
+- Prints the formatted output using cout.
+
+Key Concepts:
+- Functions
+- User input with getline()
+- String handling
+- Console output

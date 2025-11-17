@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Sum of Three Numbers
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program asks the user to enter three numbers and then calculates
+and prints their sum. It is a simple exercise to practice user input,
+output, and basic arithmetic operations in C++.
+
+Input:
+- Three floating-point numbers entered by the user.
+
+Output:
+- Prints the sum of the three numbers.
+
+Logic Used:
+- Reads three numbers using cin.
+- Adds the three numbers together.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point numbers

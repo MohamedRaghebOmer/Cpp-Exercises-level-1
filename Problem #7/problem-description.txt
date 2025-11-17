@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Half of Two Numbers
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program asks the user to enter two numbers and then calculates
+and prints half of each number. It is a simple exercise to practice
+user input, output, and basic arithmetic operations.
+
+Input:
+- Two floating-point numbers entered by the user.
+
+Output:
+- For each number, prints half of its value in the console.
+
+Logic Used:
+- Reads two numbers using cin.
+- Divides each number by 2 to calculate its half.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point numbers

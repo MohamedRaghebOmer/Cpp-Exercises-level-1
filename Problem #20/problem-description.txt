@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area from Square Side
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program calculates the area of a circle that can fit inside
+a square by using the side length of the square entered by the user.
+The formula applied is:
+
+    Area = π * A^2 / 4
+
+Input:
+- A floating-point number representing the side length (A) of the square.
+
+Output:
+- Prints the area of the circle that fits inside the square.
+
+Logic Used:
+- Reads side length using cin.
+- Applies the formula Area = π * A^2 / 4.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point calculations

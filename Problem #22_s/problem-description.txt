@@ -1,0 +1,30 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Advanced Formula with pow()
+Level: Beginner – Math & Input/Output
+
+Description:
+This program calculates the area of a circle using two user inputs (a and b)
+and applies the formula with pow() for squaring b:
+
+    Area = π * (b^2 / 4) * (2a - b) / (2a + b)
+
+Input:
+- Two floating-point numbers: a and b, entered by the user.
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads values a and b using cin.
+- Uses pow() from <cmath> to calculate b^2.
+- Applies the formula step by step.
+- Prints the result using cout.
+
+Key Concepts:
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations
+- Using parentheses to control order of operations

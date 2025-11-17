@@ -1,0 +1,14 @@
+# Time Converter Program
+
+This program calculates the total time in days, hours, minutes, and seconds based on user input for days, hours, minutes, and seconds.
+
+**How it works:**
+1. The user enters the number of days, hours, minutes, and seconds.
+2. The program calculates the total time in each unit:
+   - Total days
+   - Total hours
+   - Total minutes
+   - Total seconds
+3. The program displays the cumulative results for all units.
+
+This program demonstrates the use of arithmetic operations, type conversion, and basic input/output in C++.

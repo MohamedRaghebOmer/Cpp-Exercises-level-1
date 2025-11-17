@@ -1,0 +1,14 @@
+# Task Duration Calculator (in Seconds)
+
+This program calculates the total duration of a task in **seconds** based on user input for days, hours, minutes, and seconds.
+
+**How it works:**
+1. The user enters the time spent in:
+   - Days
+   - Hours
+   - Minutes
+   - Seconds
+2. The program converts all units to seconds and sums them up.
+3. It then displays the total time in seconds.
+
+This program demonstrates the use of arithmetic operations, input/output, and function encapsulation in C++.

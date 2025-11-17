@@ -1,0 +1,36 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Coin and Dollar Calculator
+Level: Beginner – Arithmetic Operations & Input/Output
+
+Description:
+This program calculates the total value of coins and dollars entered
+by the user. The user inputs the number of pennies, nickels, dimes,
+quarters, and dollars they have, and the program converts and sums
+them to display the total amount in each type of coin and in dollars.
+
+Input:
+- Number of Pennies
+- Number of Nickels
+- Number of Dimes
+- Number of Quarters
+- Number of Dollars
+
+Output:
+- Total value in Pennies
+- Total value in Nickels
+- Total value in Dimes
+- Total value in Quarters
+- Total value in Dollars
+
+Logic Used:
+- Uses arithmetic multiplication to convert each coin type to its value.
+- Adds up all coins to calculate totals in different denominations.
+- Prints results with cout.
+
+Key Concepts:
+- Arithmetic operations (+, *, etc.)
+- User input/output
+- Type conversions and calculations

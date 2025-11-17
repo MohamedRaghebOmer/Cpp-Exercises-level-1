@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Pass/Fail Checker
+Level: Beginner – Structs & Conditional Logic
+
+Description:
+This program asks the user to enter a student's mark and prints
+whether the student has passed or failed based on a passing score
+of 50. It demonstrates using structs and functions for input and output.
+
+Input:
+- A floating-point number representing the student's mark.
+
+Output:
+- Prints "PASS!" if the mark is 50 or above.
+- Prints "Fail." if the mark is below 50.
+
+Logic Used:
+- Defines a struct stMark to store the student's mark.
+- Uses two functions: ReadMark() to read input and PrintResult() to display output.
+- Conditional statement checks if the mark is passing or failing.
+
+Key Concepts:
+- Structs in C++
+- Functions with reference parameters
+- Conditional logic (if/else)
+- User input and output

@@ -1,0 +1,8 @@
+Print Uppercase English Letters Using ASCII Codes
+
+This program prints all uppercase English letters (A-Z) using their ASCII codes.
+
+How it works:
+- The ASCII codes for uppercase letters A-Z are 65 to 90.
+- The program uses a for loop from 65 to 90.
+- Each integer is converted to a character using char() and printed.

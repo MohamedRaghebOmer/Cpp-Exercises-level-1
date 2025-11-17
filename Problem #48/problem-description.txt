@@ -1,0 +1,9 @@
+Calculate Monthly Payment for a Loan
+
+This program calculates the monthly payment required to settle a loan over a specified number of months.
+
+How it works:
+- The user enters the total loan amount.
+- The user enters the number of months they want to pay off the loan.
+- The program divides the total loan amount by the number of months to calculate the monthly payment.
+- The result is displayed on the screen.

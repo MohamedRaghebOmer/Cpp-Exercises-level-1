@@ -1,41 +1,35 @@
 #include <iostream>
-
 using namespace std;
 
-int main()
-{
+int main() {
     float num1, num2;
-    string Operation_Type;
+    char op;
 
-    cout << "What is the first number? \n";
+    cout << "Enter first number: ";
     cin >> num1;
-
-    cout << "What is the second number? \n";
+    cout << "Enter second number: ";
     cin >> num2;
+    cout << "Enter operation (+, -, *, /): ";
+    cin >> op;
 
-    cout << "What is the Operation Type? \n";
-    cin >> Operation_Type;
-
-    switch (Operation_Type)
-    {
-    case + :
+    switch (op) {
+    case '+':
         cout << num1 << " + " << num2 << " = " << num1 + num2;
         break;
-
-    case - :
+    case '-':
         cout << num1 << " - " << num2 << " = " << num1 - num2;
         break;
-
-    case *;
+    case '*':
         cout << num1 << " * " << num2 << " = " << num1 * num2;
         break;
-
-        case /;
-        cout << num1 << " / " << num2 << " = " << num1 / num2;
+    case '/':
+        if (num2 != 0)
+            cout << num1 << " / " << num2 << " = " << num1 / num2;
+        else
+            cout << "Error: Division by zero!";
         break;
-
     default:
-            cout << "Not a week day!\n";
+        cout << "Invalid operation!";
     }
 
     return 0;

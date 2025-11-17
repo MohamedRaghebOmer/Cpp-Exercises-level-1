@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Triangle Area Calculator
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program calculates the area of a triangle by asking the user
+to enter the base (b) and height (h), then applies the formula:
+
+    Area = 0.5 * b * h
+
+Input:
+- Two floating-point numbers: height (h) and base (b) of the triangle.
+
+Output:
+- The calculated area of the triangle printed to the console.
+
+Logic Used:
+- Reads base and height using cin.
+- Multiplies base and height, then multiplies by 0.5 to get the area.
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic (multiplication)
+- User input/output
+- Floating-point numbers

@@ -1,0 +1,24 @@
+Month Finder (Using Switch Case)
+
+This program takes a number (1-12) as input and prints the corresponding month using a switch statement.
+
+Mapping:
+1  -> January
+2  -> February
+3  -> March
+4  -> April
+5  -> May
+6  -> June
+7  -> July
+8  -> August
+9  -> September
+10 -> October
+11 -> November
+12 -> December
+
+If the number is not in the range 1-12, it prints "Invalid Month!".
+
+How it works:
+- The program asks the user to enter a number representing the month.
+- It uses a switch statement to determine and print the correct month.
+- Any input outside 1-12 triggers the default case, displaying "Invalid Month!".

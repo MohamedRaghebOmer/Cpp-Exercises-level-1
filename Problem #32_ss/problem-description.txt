@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Calculate Power Using Loop
+Level: Beginner – Loops, Arithmetic & Input/Output
+
+Description:
+This program calculates the power of a number using a loop instead of
+cmath's pow() function. It reads a base and an exponent from the user
+and multiplies the base by itself exponent times.
+
+Input:
+- Integer "base" from the user.
+- Integer "exponent" from the user.
+
+Output:
+- Prints base^exponent.
+
+Logic Used:
+- Initializes a result variable to 1.
+- Uses a for loop to multiply the base repeatedly.
+- Displays the final result.
+
+Key Concepts:
+- Loops (for)
+- Multiplication and accumulation
+- User input/output
+- Integer arithmetic

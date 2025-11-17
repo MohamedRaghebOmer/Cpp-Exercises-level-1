@@ -1,0 +1,10 @@
+# Cash Payment Calculator
+
+This simple program calculates the change to give back when a customer pays a bill. 
+
+**How it works:**
+1. The user enters the total bill amount.
+2. The user enters the cash paid.
+3. The program calculates and displays the amount to be returned as change (`cash - bill`).
+
+This program is a basic example of using input/output and arithmetic operations in C++.

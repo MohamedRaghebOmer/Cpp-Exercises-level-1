@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Triangle Sides
+Level: Beginner – Math & Input/Output
+
+Description:
+This program calculates the area of a circle using the lengths of
+three sides of a triangle (a, b, c). It applies a formula that
+incorporates the semi-perimeter and the triangle sides:
+
+    s = (a + b + c) / 2
+    Area = π * (a * b * c) / (4 * sqrt(s * (s - a) * (s - b) * (s - c)))
+
+Input:
+- Three floating-point numbers representing the sides of a triangle (a, b, c).
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads a, b, c using cin.
+- Calculates semi-perimeter s.
+- Calculates numerator (a * b * c) and denominator (4 * sqrt(s*(s-a)*(s-b)*(s-c))).
+- Applies the formula to find the circle's area.
+- Prints the result using cout.
+
+Key Concepts:
+- Mathematical functions: sqrt()
+- User input/output
+- Floating-point calculations
+- Triangle properties and formulas

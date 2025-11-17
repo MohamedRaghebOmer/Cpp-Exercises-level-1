@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    //                         (Problem #9)
 cout << "Enter three numbers \n";
     float first_number ,second_number ,third_number;
         cin >> first_number;

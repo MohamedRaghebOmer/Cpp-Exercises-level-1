@@ -1,0 +1,26 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Powers of a Number
+Level: Beginner – Arithmetic & Input/Output
+
+Description:
+This program reads a number from the user and calculates its square,
+cube, and fourth power. It prints each result on the screen.
+
+Input:
+- A floating-point number "num" entered by the user.
+
+Output:
+- Prints the square, cube, and fourth power of the entered number.
+
+Logic Used:
+- Reads input using cin.
+- Calculates the square, cube, and fourth power using multiplication.
+- Prints each result with cout, showing the calculation steps.
+
+Key Concepts:
+- Arithmetic operations: multiplication, powers
+- User input/output
+- Floating-point numbers

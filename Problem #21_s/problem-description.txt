@@ -1,0 +1,30 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area from Perimeter Using pow()
+Level: Beginner – Math & Input/Output
+
+Description:
+This program calculates the area of a circle based on the perimeter
+entered by the user. It demonstrates using the pow() function from
+<cmath> for squaring the perimeter. The formula applied is:
+
+    Area = L^2 / (4 * π)
+
+Input:
+- A floating-point number representing the circle's perimeter (L).
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads perimeter using cin.
+- Uses pow() from <cmath> to calculate L^2.
+- Divides by (4 * π) to get the area.
+- Prints the result using cout.
+
+Key Concepts:
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations

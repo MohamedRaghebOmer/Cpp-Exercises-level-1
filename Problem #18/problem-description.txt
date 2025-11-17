@@ -1,0 +1,32 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Calculator
+Level: Beginner – Math & Input/Output
+
+Description:
+This program calculates the area of a circle based on the radius
+entered by the user. It also demonstrates rounding up the area
+using the ceil() function.
+
+Formula Used:
+    Area = π * r^2
+
+Input:
+- An integer representing the radius (r) of the circle.
+
+Output:
+- Prints the calculated area.
+- Prints the area rounded up using ceil().
+
+Logic Used:
+- Reads radius using cin.
+- Uses pow() from <cmath> to calculate r^2.
+- Uses ceil() from <cmath> to round the result.
+- Prints results using cout.
+
+Key Concepts:
+- Mathematical functions: pow(), ceil()
+- User input/output
+- Floating-point calculations

@@ -1,0 +1,27 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Print My Name
+Level: Beginner – First Program
+
+Description:
+This is the very first C++ program I ever wrote. It demonstrates
+how to define a simple function and call it to print output
+to the console.
+
+Input:
+- No input is required for this program.
+
+Output:
+- Prints the name "Mohamed Ragheb Omer" to the console.
+
+Logic Used:
+- Defines a void function named ProcedureToPrintMyName.
+- Calls the function from main() to print the output.
+
+Key Concepts:
+- Functions
+- Console output (cout)
+- Program structure (main function)
+- This was my first program ever written in C++.

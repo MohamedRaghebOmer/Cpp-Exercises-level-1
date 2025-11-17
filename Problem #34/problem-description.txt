@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Sales Percentage Calculator
+Level: Beginner – Conditional Statements & Input/Output
+
+Description:
+This program calculates the percentage of total sales based on
+predefined ranges. The user enters the total sales amount, and
+the program determines the corresponding percentage according
+to the given conditions.
+
+Input:
+- Unsigned integer "TotalSales" entered by the user.
+
+Output:
+- Prints the percentage of the sales based on the following ranges:
+  * TotalSales >= 1,000,000 → 1%
+  * 500,000 <= TotalSales < 1,000,000 → 2%
+  * 100,000 <= TotalSales < 500,000 → 3%
+  * 50,000 <= TotalSales < 100,000 → 5%
+  * TotalSales < 50,000 → 0%
+
+Logic Used:
+- Uses if-else-if ladder to check which range TotalSales belongs to.
+- Performs multiplication to calculate the percentage.
+- Prints the result using cout.
+
+Key Concepts:
+- Conditional statements: if, else if, else
+- Arithmetic operations
+- User input/output

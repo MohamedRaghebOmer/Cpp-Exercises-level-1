@@ -1,0 +1,10 @@
+# Total Bill Calculator with Service Fee and Sales Tax
+
+This program calculates the total bill amount after including a service fee and sales tax.
+
+**How it works:**
+1. The user enters the original bill value.
+2. The program applies a service fee (1.1×) and a sales tax (1.16×).
+3. The final total bill is displayed: `total_bill = Bill_value * service_fee * sales_tax`.
+
+This program demonstrates the use of constants, arithmetic operations, and basic input/output in C++.

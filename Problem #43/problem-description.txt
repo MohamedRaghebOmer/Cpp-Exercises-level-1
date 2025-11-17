@@ -1,0 +1,17 @@
+# Seconds to Days, Hours, Minutes Converter
+
+This program converts a given number of **seconds** into a readable format of **days, hours, minutes, and seconds**.
+
+**How it works:**
+1. The user enters a total number of seconds.
+2. The program calculates:
+   - Days (`seconds / 86400`)
+   - Remaining hours (`remaining_seconds / 3600`)
+   - Remaining minutes (`remaining_seconds / 60`)
+   - Remaining seconds
+3. It then prints the results in a clear, human-readable format.
+
+This program demonstrates:
+- Using integer division and modulus (`/` and `%`)
+- Basic input/output in C++
+- Function encapsulation for clean code

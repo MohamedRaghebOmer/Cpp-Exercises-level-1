@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Driver License Eligibility Check
+Level: Beginner – Structs & Conditional Logic
+
+Description:
+This program collects basic information from a user to determine
+if they are eligible for a driver-related process. It asks for
+the user's age and whether they have a driver license, then
+decides if they are accepted or rejected based on the input.
+
+Input:
+- Age (unsigned short)
+- AnswerAboutIf: 1 for yes, 0 for no (if the user has a driver license)
+- Driver license number (if eligible)
+
+Output:
+- If age > 21 and the user has a driver license, prompts for
+  the license number and prints "Hired!"
+- Otherwise, prints "Rejected."
+
+Logic Used:
+- Defines a struct stInfo to store age, license, and a yes/no answer.
+- Uses functions to read information and check conditions.
+- Conditional statements determine eligibility.
+
+Key Concepts:
+- Structs in C++
+- Functions with reference parameters
+- Conditional logic (if/else)
+- User input and output

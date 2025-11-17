@@ -1,0 +1,21 @@
+# Day of the Week Finder
+
+This program takes a **number input from 1 to 7** and prints the corresponding **day of the week**.
+
+**How it works:**
+1. The user enters a number (`NumberOfTheDay`).
+2. The program checks if the number is valid (1–7).
+3. If valid, it prints the corresponding day:
+   - 1 → Saturday  
+   - 2 → Sunday  
+   - 3 → Monday  
+   - 4 → Tuesday  
+   - 5 → Wednesday  
+   - 6 → Thursday  
+   - 7 → Friday  
+4. If the number is outside the range, it prints `"Invalid day."`.
+
+**Concepts used:**
+- Conditional statements (`if-else`)
+- Input/output using `cin` and `cout`
+- Basic integer validation

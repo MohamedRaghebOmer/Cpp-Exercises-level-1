@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area from Perimeter
+Level: Beginner – Basic Arithmetic & Input/Output
+
+Description:
+This program calculates the area of a circle based on the perimeter
+(circumference) entered by the user. The formula used is:
+
+    Area = Perimeter^2 / (4 * π)
+
+Input:
+- A floating-point number representing the circle's perimeter.
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads perimeter using cin.
+- Applies the formula Area = Perimeter^2 / (4 * π).
+- Prints the result using cout.
+
+Key Concepts:
+- Basic arithmetic
+- User input/output
+- Floating-point calculations

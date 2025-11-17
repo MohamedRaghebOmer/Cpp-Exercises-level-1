@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area From Diameter
+Level: Beginner – Math & pow()
+
+Description:
+This program reads the diameter (d) of a circle and calculates its area
+using the formula:
+
+    Area = (π * d²) / 4
+
+It then prints the calculated area and the rounded-up result using the ceil() function.
+
+Input:
+- An integer d representing the diameter of the circle.
+
+Output:
+- The calculated area.
+- The area rounded up using ceil().
+
+Logic Used:
+- Applies the formula for circle area based on diameter.
+- Uses pow() to calculate d².
+- Uses ceil() to round the area upwards.
+- Basic input/output with cin and cout.
+
+Key Concepts:
+- Mathematical formulas
+- pow() function
+- ceil() function
+- Basic input/output

@@ -1,0 +1,30 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Basic Arithmetic Calculator
+Level: Beginner – Conditional Statements & I/O
+
+Description:
+This program allows the user to perform basic arithmetic operations
+(Addition, Subtraction, Multiplication, Division) between two numbers.
+The user enters two numbers and specifies the operation type, and the
+program displays the result.
+
+Input:
+- First number
+- Second number
+- Operation type (can be +, -, x, ÷ or written in words)
+
+Output:
+- Result of the selected arithmetic operation
+
+Logic Used:
+- Conditional statements (if-else) to check the operation type
+- Arithmetic operations (+, -, *, /)
+- User input/output using cin and cout
+
+Key Concepts:
+- Conditional logic
+- Arithmetic calculations
+- String comparison

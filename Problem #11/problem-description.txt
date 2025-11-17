@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Average and Pass/Fail Checker
+Level: Beginner – Structs, Functions & Conditional Logic
+
+Description:
+This program asks the user to enter three marks for a student,
+calculates the average, and prints whether the student has passed
+or failed based on a passing score of 50. It demonstrates using
+structs and functions to organize the code.
+
+Input:
+- Three floating-point numbers representing the student's marks.
+
+Output:
+- The average of the three marks.
+- "PASS!" if the average is 50 or higher.
+- "FAIL" if the average is below 50.
+
+Logic Used:
+- Defines a struct stMarks to store marks and average.
+- Uses ReadMarks() to read input, CalculateAverage() to compute the average,
+  and PassOrNot() to determine pass/fail.
+- Conditional statement checks if the average meets the passing score.
+
+Key Concepts:
+- Structs in C++
+- Functions with reference parameters
+- Arithmetic operations
+- Conditional logic (if/else)
+- User input and output

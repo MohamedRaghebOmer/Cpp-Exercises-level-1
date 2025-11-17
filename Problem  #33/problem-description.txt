@@ -1,0 +1,33 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Grade Letter Converter
+Level: Beginner – If/Else Conditions
+
+Description:
+This program asks the user to enter a numeric grade and prints the
+corresponding letter grade based on standard grade ranges (A–F).
+
+Input:
+- A floating-point number representing the student's grade.
+
+Output:
+- A single letter grade: A, B, C, D, E, or F.
+
+Logic Used:
+- Uses a series of if/else-if/else conditions to determine the letter grade.
+- Each condition corresponds to a specific grade range.
+
+Grade Ranges:
+- 90–100 → A
+- 80–89  → B
+- 70–79  → C
+- 60–69  → D
+- 50–59  → E
+- Below 50 → F
+
+Key Concepts:
+- if / else-if / else conditions
+- Comparing numeric ranges
+- Basic input/output

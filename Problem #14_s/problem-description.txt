@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Swap Two Numbers Using a Function
+Level: Beginner – Functions & Input/Output
+
+Description:
+This program asks the user to enter two numbers and demonstrates
+swapping them using a function. It prints the original numbers
+first, then prints them in reverse order to show the swap effect.
+
+Input:
+- Two integers entered by the user.
+
+Output:
+- Prints the two numbers in original order.
+- Prints the two numbers in reversed order.
+
+Logic Used:
+- Defines a void function ProcedureToSwapTwoNumbers().
+- Reads two integers using cin.
+- Prints the numbers first normally, then in reverse order.
+- Demonstrates swapping concept using function scope.
+
+Key Concepts:
+- Functions
+- User input/output
+- Swapping values

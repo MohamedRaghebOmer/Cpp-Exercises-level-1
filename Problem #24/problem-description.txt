@@ -1,0 +1,30 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Age Validation Program
+Level: Beginner – Basic Input/Output & Conditionals
+
+Description:
+This program reads the age of a user and checks if it falls within
+a valid range (18 to 44 inclusive). It demonstrates using structures,
+functions, and conditional statements.
+
+Input:
+- An integer representing the user's age.
+
+Output:
+- Prints "Valid Age!" if the age is between 18 and 44.
+- Prints "Invalid Age." otherwise.
+
+Logic Used:
+- Defines a struct stAge to store the age.
+- Reads age using ReadAge() function.
+- Checks if age is in the valid range using Check() function.
+- Prints the result using cout.
+
+Key Concepts:
+- Structures (struct)
+- Functions with parameters
+- Conditional statements: if-else
+- User input/output

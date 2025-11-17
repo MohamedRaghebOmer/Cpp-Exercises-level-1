@@ -1,0 +1,31 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area Using Diameter Function
+Level: Beginner – Functions & Math
+
+Description:
+This program calculates the area of a circle using a function that
+takes the diameter as input and returns the area. It demonstrates
+using functions to organize calculations in C++.
+
+Formula Used:
+    Area = π * D^2 / 4
+
+Input:
+- A floating-point number representing the diameter (D) of the circle.
+
+Output:
+- Prints the calculated area returned by the function.
+
+Logic Used:
+- Defines Function_To_Calculate_Circle_Area() to read diameter and return the area.
+- Uses pow() from <cmath> for D^2 calculation.
+- Prints the result using cout.
+
+Key Concepts:
+- Functions with return values
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations

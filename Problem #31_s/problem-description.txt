@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Powers of a Number Using pow()
+Level: Beginner – Arithmetic, Math Library & Input/Output
+
+Description:
+This program reads a number from the user and calculates its square,
+cube, and fourth power using the pow() function from the cmath library.
+It prints each result clearly.
+
+Input:
+- A floating-point number "num" entered by the user.
+
+Output:
+- Prints num^2, num^3, and num^4 with proper formatting.
+
+Logic Used:
+- Reads input using cin.
+- Uses pow() from <cmath> to calculate powers.
+- Prints results using cout.
+
+Key Concepts:
+- Math library functions: pow()
+- Arithmetic operations
+- User input/output
+- Floating-point numbers

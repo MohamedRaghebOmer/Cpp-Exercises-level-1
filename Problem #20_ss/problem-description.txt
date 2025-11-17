@@ -1,0 +1,31 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area from Square Side Using Function
+Level: Beginner – Functions & Math
+
+Description:
+This program calculates the area of a circle that fits inside a square
+using a function. The user enters the side length (a) of the square,
+and the function returns the circle's area using the formula:
+
+    Area = π * a^2 / 4
+
+Input:
+- A floating-point number representing the side length (a) of the square.
+
+Output:
+- Prints the calculated area returned by the function.
+
+Logic Used:
+- Defines Function_To_Calculate_Circle_Area() to read input and return the area.
+- Uses pow() from <cmath> to calculate a^2.
+- Multiplies by π and divides by 4.
+- Prints the result using cout.
+
+Key Concepts:
+- Functions with return values
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations

@@ -1,0 +1,26 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Swap Two Numbers
+Level: Beginner – Basic Input/Output
+
+Description:
+This program asks the user to enter two numbers and then prints
+them in reverse order to demonstrate swapping values. It is a
+simple exercise to practice user input, output, and basic logic.
+
+Input:
+- Two floating-point numbers entered by the user.
+
+Output:
+- The second number printed first, followed by the first number.
+
+Logic Used:
+- Reads two numbers using cin.
+- Prints the numbers in reverse order using cout.
+
+Key Concepts:
+- Swapping values
+- User input/output
+- Floating-point numbers

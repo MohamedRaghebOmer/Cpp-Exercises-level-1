@@ -1,0 +1,31 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Circle Area from Square Side Using pow()
+Level: Beginner – Math & Input/Output
+
+Description:
+This program calculates the area of a circle that fits inside a square
+using the side length entered by the user. It demonstrates using
+the pow() function from <cmath> for exponentiation.
+
+Formula Used:
+    Area = π * A^2 / 4
+
+Input:
+- A floating-point number representing the side length (A) of the square.
+
+Output:
+- Prints the calculated area of the circle.
+
+Logic Used:
+- Reads side length using cin.
+- Uses pow() from <cmath> to calculate A^2.
+- Multiplies by π and divides by 4 to get the area.
+- Prints the result using cout.
+
+Key Concepts:
+- Mathematical functions: pow()
+- User input/output
+- Floating-point calculations

@@ -1,0 +1,29 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Calculate Any Power of a Number
+Level: Beginner – Functions, Arithmetic & Input/Output
+
+Description:
+This program reads a number and a power from the user and calculates
+the number raised to that power using the pow() function from the cmath library.
+The calculation is performed inside a separate function.
+
+Input:
+- A floating-point number "num" entered by the user.
+- A floating-point number "Power" representing the exponent.
+
+Output:
+- Prints the result of num^Power.
+
+Logic Used:
+- Defines Function() to handle input and calculation.
+- Uses pow() to calculate the power.
+- Prints the result using cout.
+
+Key Concepts:
+- Functions
+- Math library functions: pow()
+- User input/output
+- Floating-point arithmetic

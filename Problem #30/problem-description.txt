@@ -1,0 +1,28 @@
+===============================
+  problem-description.txt
+===============================
+
+Problem Title: Factorial Calculator
+Level: Beginner – Loops & Input/Output
+
+Description:
+This program reads an integer from the user and calculates its factorial
+using a for loop that multiplies all integers from the number down to 1.
+
+Input:
+- An integer "B" entered by the user.
+
+Output:
+- Prints the factorial of the entered number.
+
+Logic Used:
+- Defines Proccedure() function to handle input and calculation.
+- Initializes "factorial" to 1.
+- Uses a for loop from B down to 1, multiplying each value to "factorial".
+- Prints the result using cout.
+
+Key Concepts:
+- Loops: for
+- Multiplication and accumulation
+- User input/output
+- Integer arithmetic
