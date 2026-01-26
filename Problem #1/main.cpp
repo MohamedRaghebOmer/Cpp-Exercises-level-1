@@ -9,6 +9,6 @@ void ProcedureToPrintMyName()
 
 int main()
 {
-    ProcedureToPrintMyName();
+    ProcedureToPrintMyName(); 
     return 0;
 }
