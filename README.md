@@ -2,7 +2,7 @@
 
 Welcome to the **C++ Porblem Solving Level 1** repository! 🎯
 
-This repository contains my **first collection of problem-solving exercises in C++**, all solved by me. The goal is to build a strong foundation in programming logic, clear code, and problem-solving with C++.
+This repository contains my **first collection of problem-solving exercises in C++**, all solved by me. The goal is to build a strong foundation in programming logic, clear code, and problem-solving with C++. 
 
 ---
 
